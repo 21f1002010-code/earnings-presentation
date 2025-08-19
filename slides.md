@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: default
 title: Quarterly Earnings Report
 paginate: true
 ---
