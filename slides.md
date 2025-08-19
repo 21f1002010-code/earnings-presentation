@@ -11,6 +11,14 @@ paginate: true
 
 ---
 
+![bg](https://marp.app/assets/hero-background.jpg)
+
+# Earnings Overview
+
+This slide has a background image 🎉
+
+---
+
 ## Highlights
 
 - Revenue up 12%
