@@ -11,7 +11,7 @@ paginate: true
 
 ---
 
-![bg](https://marp.app/assets/hero-background.jpg)
+![bg](https://source.unsplash.com/1600x900/?finance,stocks)
 
 # Earnings Overview
 
