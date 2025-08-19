@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: gaia
 title: Quarterly Earnings Report
 paginate: true
 ---
